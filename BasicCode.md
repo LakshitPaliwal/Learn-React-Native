@@ -1,4 +1,4 @@
-```reactjs
+```react.js
 import React from 'react';
 
 import { Appbar,Text } from 'react-native-paper';
